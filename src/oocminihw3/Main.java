@@ -15,6 +15,9 @@ import java.util.List;
  *
  * @author 4istik
  */
+
+// https://github.com/2022256/OOCMiniHW3
+
     class Person { // create person
     String id;
     String firstName;
